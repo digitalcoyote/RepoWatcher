@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepoWatcher", "RepoWatcher\RepoWatcher.csproj", "{0C7086ED-EF87-444C-9A58-DD5CD0051D04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitWatcher", "GitWatcher\GitWatcher.csproj", "{0FF06442-DC88-4AE2-AEB5-C9FD7136489A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SvnWatcher", "SvnWatcher\SvnWatcher.csproj", "{53E0D5FF-6ACC-409F-9B41-4C3FAC009799}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C7086ED-EF87-444C-9A58-DD5CD0051D04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C7086ED-EF87-444C-9A58-DD5CD0051D04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C7086ED-EF87-444C-9A58-DD5CD0051D04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C7086ED-EF87-444C-9A58-DD5CD0051D04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FF06442-DC88-4AE2-AEB5-C9FD7136489A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FF06442-DC88-4AE2-AEB5-C9FD7136489A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FF06442-DC88-4AE2-AEB5-C9FD7136489A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FF06442-DC88-4AE2-AEB5-C9FD7136489A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53E0D5FF-6ACC-409F-9B41-4C3FAC009799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53E0D5FF-6ACC-409F-9B41-4C3FAC009799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53E0D5FF-6ACC-409F-9B41-4C3FAC009799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53E0D5FF-6ACC-409F-9B41-4C3FAC009799}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
